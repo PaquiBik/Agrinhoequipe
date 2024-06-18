@@ -1,20 +1,15 @@
 body{
     background-color: antiquewhite;
-    width: auto;
-    margin: auto;    
-    border: 2px solid black;  
 }
 section{
     background-color: rgb(36, 127, 231);
     padding: 100px;
-    width: auto;
-margin: auto;
+   display: flex;
 }
 footer{
 
 background-color: aqua;
-width: auto;
+    display: flex;
 padding: 50px;
-margin: 0;
 
 }
