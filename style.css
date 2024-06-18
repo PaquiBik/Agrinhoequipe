@@ -1,4 +1,7 @@
-
 body{
-    background-color: red;
+    background-color: antiquewhite;
+}
+section{
+    background-color: rgb(36, 127, 231);
+    width: 100px;
 }
