@@ -3,5 +3,12 @@ body{
 }
 section{
     background-color: rgb(36, 127, 231);
-    width: 100px;
+    padding: 100px;
+margin: auto;
+}
+footer{
+
+background-color: aqua;
+padding: 50px;
+margin: auto;
 }
