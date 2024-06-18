@@ -5,11 +5,13 @@ section{
     background-color: rgb(36, 127, 231);
     padding: 100px;
    display: flex;
+    margin:auto;
 }
 footer{
 
 background-color: aqua;
     display: flex;
 padding: 50px;
+    margin:auto;
 
 }
