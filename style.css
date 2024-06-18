@@ -2,14 +2,13 @@ body{
     background-color: antiquewhite;
     width: auto;
     margin: auto;    
-    padding: auto;
     border: 2px solid black;  
 }
 section{
     background-color: rgb(36, 127, 231);
     padding: 100px;
     width: auto;
-margin: 50px;
+margin: auto;
 }
 footer{
 
