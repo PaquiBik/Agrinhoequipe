@@ -9,13 +9,13 @@ section{
     background-color: rgb(36, 127, 231);
     padding: 100px;
     width: auto;
-margin: auto;
+margin: 50px;
 }
 footer{
 
 background-color: aqua;
 width: auto;
 padding: 50px;
-margin: auto;
+margin: 0;
 
 }
